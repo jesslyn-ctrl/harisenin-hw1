@@ -34,3 +34,14 @@ This command is used to install the required tailwind packages
 
 Run and watch the app in the development mode.\
 Open [http://127.0.0.1:3000/src/index.html](http://127.0.0.1:3000/src/index.html) to view it in your browser or use live server.
+
+------
+
+## Overview
+
+**Note: This repository is used for HariSenin homework purpose only**
+<br>
+
+Here is a little screenshot of the landing page
+
+<img src="./assets/images/landing-page-ss.png">
