@@ -28,4 +28,9 @@
 
 ### `npm install`
 
+This command is used to install the required tailwind packages
+
 ### `npx tailwindcss -i ./src/index.css -o ./dist/tailwind.css --watch`
+
+Run and watch the app in the development mode.\
+Open [http://127.0.0.1:3000/src/index.html](http://127.0.0.1:3000/src/index.html) to view it in your browser or use live server.
